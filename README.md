@@ -1,4 +1,31 @@
 # Patches-Documentation
+
+## Version Compatibility
+<details>
+  
+#### YouTube:
+```
+18.20.39
+18.21.35
+18.22.37
+18.23.36
+18.24.37
+18.25.40
+```
+#### YouTube Music:
+```
+all
+```
+#### Reddit:
+```
+2023.16.1
+```
+#### MicroG:
+```
+all
+```
+</details>
+
 ## List of ReVanced Extended patches with screenshots:
 
 ### YouTube
