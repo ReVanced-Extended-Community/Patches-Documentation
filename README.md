@@ -1,6 +1,6 @@
 # Patches-Documentation
 
-## Version Compatibility
+## Application Version Compatibility
 <details>
   
 #### YouTube:
