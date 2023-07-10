@@ -168,7 +168,7 @@ all
 | `enable-force-minimized-player` | Permanently keep player minimized even if another track is played. | [Screenshots](https://imgur.com/a/lqAV44p) |
 | `enable-force-shuffle` | Enable force shuffle even if another track is played. | [Screenshots](https://imgur.com/a/DWElbFu) |
 | `enable-landscape-mode` | Enables entry into landscape mode by screen rotation on the phone. | [Screenshots](https://imgur.com/a/1ZUpMZg) |
-| `enable-minimized-playback` | Enables minimized playback on Kids music. | [Screenshots](https://imgur.com/a/1ZUpMZg) |
+| `enable-minimized-playback` | Enables minimized playback on Kids music. | [Screenshots](https://imgur.com/a/6uOVWJp) |
 | `enable-new-layout` | Enable new player layouts. (YT Music v5.47.51+) | [Screenshots](https://imgur.com/a/LkvqOKO) |
 | `enable-old-style-miniplayer` | Return the miniplayers to old style. (for YT Music v5.55.53+) | [Screenshots](https://imgur.com/a/jH46Cvo) |
 | `enable-opus-codec` | Enable opus codec when playing audio. | [Screenshots](https://imgur.com/a/uRdhxbI) |
