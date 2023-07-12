@@ -106,7 +106,6 @@ all
 | `hide-general-ads` | Removes ads in feeds and other areas. | [Screenshots](https://imgur.com/a/UfuiO7s) |
 | `hide-info-cards` | Hides info-cards in videos. | [Screenshots](https://imgur.com/a/yKKXVDP) |
 | `hide-layout-components` | Hides general layout components. | [Screenshots](https://imgur.com/a/5BP009b) |
-| `hide-live-chat-button` | Hides the live chat button in the video player (for old layout). | [Missing]() |
 | `hide-load-more-button` | Hides the button under videos that loads similar videos. | [Screenshots](https://imgur.com/a/jihDei9) |
 | `hide-mix-playlists` | Removes mix playlists from home feed and video player. | [Screenshots](https://imgur.com/a/hzpefwO) |
 | `hide-music-button` | Hides the YouTube Music button in the video player. | [Screenshots](https://imgur.com/a/KYu3bMj) |
