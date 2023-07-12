@@ -1,6 +1,6 @@
 # Patches-Documentation
 
-## Recommended Application Version for Best Compatibility
+## Recommended Application Versions for Best Compatibility
 <details>
   
 #### YouTube:
