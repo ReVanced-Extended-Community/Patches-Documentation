@@ -43,7 +43,7 @@ all
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
-| `add-splash-animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch won't work with the `custom-branding-icon` patch. | [Screenshots](https://imgur.com/a/Ls6167p) |
+| `add-splash-animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch won't work with the `custom-branding-icon` patches. | [Screenshots](https://imgur.com/a/Ls6167p) |
 | `bypass-ambient-mode-restrictions` | Allows ambient mode to be on while battery saver mode is enabled. | [Screenshots](https://imgur.com/a/qjNlGP3) |
 | `change-homepage` | Defaults to subscription tab instead of home when the app opens. | [Screenshots](https://imgur.com/a/Xxeq0XD) |
 | `custom-branding-icon-mmt` | Changes the app launcher icon to MMT. | [Screenshots](https://imgur.com/1h94NCw) |
