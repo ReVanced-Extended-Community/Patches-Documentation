@@ -201,6 +201,7 @@ all
 |:--------:|:--------------:|:-----------------:|
 | `disable-screenshot-popup` | Disables the popup that shows up when taking a screenshot. | [Screenshots](https://imgur.com/a/ccxzHAN) |
 | `hide-ads` | Removes ads from Reddit. | [Screenshots](https://imgur.com/a/GEjAUeR) |
+| `hide-create-button` | Hide create button at navigation bar. | [Screenshots](https://imgur.com/a/3Fcbqdf) |
 | `hide-discover-button` | Hides the discover button from the navigation bar. | [Screenshots](https://imgur.com/a/pYT2oYn) |
 | `open-links-directly` | Skips over redirection URLs to external links. | [Screenshots](https://imgur.com/a/0JCLGCl) |
 | `open-links-externally` | Open links outside of the app directly in your browser. | [Screenshots](https://imgur.com/a/OV2x6hs) |
