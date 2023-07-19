@@ -2,7 +2,7 @@
 
 <details><summary>
 
-## Recommended Application Versions for Best Compatibility
+## Suggested Versions
 </summary>
 
 <details><summary>
@@ -62,7 +62,7 @@ all
 
 <details><summary>
 
-## List of ReVanced Extended Patches with Screenshots
+## List of Patches with Screenshots
 </summary>
 
 <details><summary>
