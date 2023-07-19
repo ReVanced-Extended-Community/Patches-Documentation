@@ -1,9 +1,15 @@
 # Patches-Documentation
 
+<details><summary>
+
 ## Recommended Application Versions for Best Compatibility
-<details>
-  
-#### YouTube:
+</summary>
+
+<details><summary>
+
+#### YouTube - Versions
+</summary>
+
 ```
 18.25.40
 ```
@@ -22,24 +28,47 @@
 ```
 18.20.39
 ```
-#### YouTube Music:
-```
-all
-```
-#### Reddit:
-```
-2023.16.1
-```
-#### MicroG:
+</details>
+
+<details><summary>
+  
+#### YouTube Music - Versions
+</summary>
+
 ```
 all
 ```
 </details>
 
-## List of ReVanced Extended patches with screenshots:
+<details><summary>
 
-### YouTube
-<details>
+#### Reddit - Versions
+</summary>
+
+```
+2023.16.1
+```
+</details>
+
+<details><summary>
+
+#### MicroG
+</summary>
+
+```
+all
+```
+</details></details>
+
+<details><summary>
+
+## List of ReVanced Extended Patches with Screenshots
+</summary>
+
+<details><summary>
+
+#### YouTube
+</summary>
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
@@ -143,8 +172,10 @@ all
 | `translations` | Add Crowdin translations for YouTube. | [Screenshots](https://imgur.com/a/R7Q1k2h) |
 </details>
 
-### YouTube Music
-<details>
+<details><summary>
+
+#### YouTube Music
+</summary>
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
@@ -194,8 +225,10 @@ all
 | `translations` | Add Crowdin translations for YouTube Music. | [Screenshots](https://imgur.com/a/tVIibVh) |
 </details>
 
-### Reddit
-<details>
+<details><summary>
+
+#### Reddit
+</summary>
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
@@ -210,8 +243,10 @@ all
 | `sanitize-sharing-links` | Removes (tracking) query parameters from the URLs when sharing links. | [Screenshots](https://imgur.com/a/cnNTs3d) |
 </details>
 
-### MicroG
-<details>
+<details><summary>
+
+#### MicroG
+</summary>
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
