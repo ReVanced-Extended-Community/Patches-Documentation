@@ -255,7 +255,7 @@ all
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
 | `custom-branding-microg-name` | Renames the app to the name specified in options.json file. | [Screenshots](https://imgur.com/a/crVABax) |
-| `custom-branding-microg-revancify-blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](https://imgur.com/IpJTvRM) |
+| `custom-branding-microg-revancify-blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](/assets/microg/custom-branding-icon-revancify-blue/) |
 | `custom-branding-microg-revancify-red` | Changes the app launcher icon to Revancify Red. | [Screenshots](https://imgur.com/DH5OfGs) |
 | `hide-icon-from-launcher` | Hides the app icon from the launcher. | [Screenshots](https://imgur.com/a/vNaz55n) |
 </details>
