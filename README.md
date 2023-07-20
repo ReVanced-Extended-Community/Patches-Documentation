@@ -5,6 +5,8 @@
 ## Suggested Versions
 </summary>
 
+***Recommended application versions to patch for best compatibilty with patches.***
+
 <details><summary>
 
 #### YouTube - Versions
@@ -64,6 +66,8 @@ all
 
 ## Patches with Screenshots
 </summary>
+
+***List of patches with screenshots. You may need to scroll to view the complete table.***
 
 <details><summary>
 
