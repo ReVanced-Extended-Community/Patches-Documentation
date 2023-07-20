@@ -236,15 +236,15 @@ all
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
-| `disable-screenshot-popup` | Disables the popup that shows up when taking a screenshot. | [Screenshots](https://imgur.com/a/ccxzHAN) |
-| `hide-ads` | Removes ads from Reddit. | [Screenshots](https://imgur.com/a/GEjAUeR) |
-| `hide-create-button` | Hide create button at navigation bar. | [Screenshots](https://imgur.com/a/3Fcbqdf) |
-| `hide-discover-button` | Hides the discover button from the navigation bar. | [Screenshots](https://imgur.com/a/pYT2oYn) |
-| `open-links-directly` | Skips over redirection URLs to external links. | [Screenshots](https://imgur.com/a/0JCLGCl) |
-| `open-links-externally` | Open links outside of the app directly in your browser. | [Screenshots](https://imgur.com/a/OV2x6hs) |
-| `premium-icon-reddit` | Unlocks premium Reddit app icons. | [Screenshots](https://imgur.com/a/k9Uuebh) |
-| `reddit-settings` | Adds ReVanced settings to Reddit. | [Screenshots](https://imgur.com/a/wYCkX7k) |
-| `sanitize-sharing-links` | Removes (tracking) query parameters from the URLs when sharing links. | [Screenshots](https://imgur.com/a/cnNTs3d) |
+| `disable-screenshot-popup` | Disables the popup that shows up when taking a screenshot. | [Screenshots](/assets/reddit/disable-screenshot-popup/README.md) |
+| `hide-ads` | Removes ads from Reddit. | [Screenshots](/assets/reddit/hide-ads/README.md) |
+| `hide-create-button` | Hide create button at navigation bar. | [Screenshots](/assets/reddit/hide-create-button/README.md) |
+| `hide-discover-button` | Hides the discover button from the navigation bar. | [Screenshots](/assets/reddit/hide-discover-button/README.md) |
+| `open-links-directly` | Skips over redirection URLs to external links. | [Screenshots](/assets/reddit/open-links-directly/README.md) |
+| `open-links-externally` | Open links outside of the app directly in your browser. | [Screenshots](/assets/reddit/open-links-externally/README.md) |
+| `premium-icon-reddit` | Unlocks premium Reddit app icons. | [Screenshots](/assets/reddit/premium-icon-reddit/README.md) |
+| `reddit-settings` | Adds ReVanced settings to Reddit. | [Screenshots](/assets/reddit/reddit-settings/README.md) |
+| `sanitize-sharing-links` | Removes (tracking) query parameters from the URLs when sharing links. | [Screenshots](/assets/reddit/sanitize-sharing-links/README.md) |
 </details>
 
 <details><summary>
@@ -254,8 +254,8 @@ all
 
 | 💊 Patch | 📜 Description | 🏹 Target Version |
 |:--------:|:--------------:|:-----------------:|
-| `custom-branding-microg-name` | Renames the app to the name specified in options.json file. | [Screenshots](/assets/microg/custom-branding-microg-name/) |
-| `custom-branding-microg-revancify-blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](/assets/microg/custom-branding-icon-revancify-blue/) |
-| `custom-branding-microg-revancify-red` | Changes the app launcher icon to Revancify Red. | [Screenshots](/assets/microg/custom-branding-icon-revancify-red/) |
-| `hide-icon-from-launcher` | Hides the app icon from the launcher. | [Screenshots](/assets/microg/hide-icon-from-launcher/) |
+| `custom-branding-microg-name` | Renames the app to the name specified in options.json file. | [Screenshots](/assets/microg/custom-branding-microg-name/README.md) |
+| `custom-branding-microg-revancify-blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](/assets/microg/custom-branding-icon-revancify-blue/README.md) |
+| `custom-branding-microg-revancify-red` | Changes the app launcher icon to Revancify Red. | [Screenshots](/assets/microg/custom-branding-icon-revancify-red/README.md) |
+| `hide-icon-from-launcher` | Hides the app icon from the launcher. | [Screenshots](/assets/microg/hide-icon-from-launcher/README.md) |
 </details>
