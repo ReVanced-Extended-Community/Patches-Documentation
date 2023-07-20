@@ -1,4 +1,6 @@
 # Patch Preview
-![Before](/assets/reddit/open-links-externally/1.mp4)
 
-![After](/assets/reddit/open-links-externally/2.mp4)
+https://github.com/ReVanced-Extended-Community/Patches-Documentation/assets/39604793/28f7d862-576a-4892-9661-477e49d676d6
+
+https://github.com/ReVanced-Extended-Community/Patches-Documentation/assets/39604793/944f9fac-3269-45d5-86f6-6910304f3445
+
