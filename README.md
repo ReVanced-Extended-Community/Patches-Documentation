@@ -62,7 +62,7 @@ all
 
 <details><summary>
 
-## List of Patches with Screenshots
+## Patches with Screenshots
 </summary>
 
 <details><summary>
