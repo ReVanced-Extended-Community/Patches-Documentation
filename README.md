@@ -36,6 +36,10 @@
   
 #### YouTube Music - Versions
 </summary>
+The community has verified that there is an issue with versions after v6.10.52 of YT Music at the moment, causing errors during patching. A fix is already in the works and should be out soon, but please only patch up to v6.10.52 for the time being.
+
+<br>
+<br>
 
 ```
 all
