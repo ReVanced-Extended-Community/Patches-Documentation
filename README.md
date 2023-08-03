@@ -11,6 +11,7 @@
 
 #### YouTube - Versions
 </summary>
+
 ```
 18.29.38
 ```
@@ -35,6 +36,7 @@
 ```
 18.20.39
 ```
+
 </details>
 
 <details><summary>
