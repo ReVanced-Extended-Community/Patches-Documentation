@@ -246,5 +246,3 @@ all
 | `reddit-settings` | Adds ReVanced settings to Reddit. | [Screenshots](/assets/reddit/reddit-settings/README.md) |
 | `sanitize-sharing-links` | Removes (tracking) query parameters from the URLs when sharing links. | [Screenshots](/assets/reddit/sanitize-sharing-links/README.md) |
 </details>
-
-<details><summary>
