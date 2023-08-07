@@ -60,16 +60,6 @@ all
 ```
 all
 ```
-</details>
-
-<details><summary>
-
-#### MicroG - Versions
-</summary>
-
-```
-all
-```
 </details></details>
 
 <details><summary>
@@ -258,14 +248,3 @@ all
 </details>
 
 <details><summary>
-
-#### MicroG
-</summary>
-
-| 💊 Patch | 📜 Description | 🏹 Target Version |
-|:--------:|:--------------:|:-----------------:|
-| `custom-branding-microg-name` | Renames the app to the name specified in options.json file. | [Screenshots](/assets/microg/custom-branding-microg-name/README.md) |
-| `custom-branding-microg-revancify-blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](/assets/microg/custom-branding-icon-revancify-blue/README.md) |
-| `custom-branding-microg-revancify-red` | Changes the app launcher icon to Revancify Red. | [Screenshots](/assets/microg/custom-branding-icon-revancify-red/README.md) |
-| `hide-icon-from-launcher` | Hides the app icon from the launcher. | [Screenshots](/assets/microg/hide-icon-from-launcher/README.md) |
-</details>
