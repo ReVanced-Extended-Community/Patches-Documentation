@@ -264,7 +264,7 @@ all
 |:--------:|:--------------:|:-----------------:|
 | `disable-screenshot-popup` | Disables the popup that shows up when taking a screenshot. | [Screenshots](/assets/reddit/disable-screenshot-popup/README.md) |
 | `hide-ads` | Removes ads from Reddit. | [Screenshots](/assets/reddit/hide-ads/README.md) |
-| `hide-navigation-buttons` | Hide create button at navigation bar. | [Screenshots](/assets/reddit/hide-navigation-buttons/README.md) |
+| `hide-navigation-buttons` | Hide buttons at navigation bar. | [Screenshots](/assets/reddit/hide-navigation-buttons/README.md) |
 | `hide-place-button` | Hide r/place button in toolbar. | [Screenshots](/assets/reddit/hide-place-button/README.md) |
 | `open-links-directly` | Skips over redirection URLs to external links. | [Screenshots](/assets/reddit/open-links-directly/README.md) |
 | `open-links-externally` | Open links outside of the app directly in your browser. | [Screenshots](/assets/reddit/open-links-externally/README.md) |
