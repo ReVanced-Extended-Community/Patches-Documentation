@@ -88,6 +88,7 @@ all
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
 | `add-splash-animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch won't work with the `custom-branding-icon` patches. | [Screenshots](https://imgur.com/a/Ls6167p) |
+| `append-time-stamps-information` | Add the current video quality or playback speed in brackets next to the current time. | [Screenshots](https://imgur.com/a/QZoeBfT) |
 | `bypass-ambient-mode-restrictions` | Allows ambient mode to be on while battery saver mode is enabled. | [Screenshots](https://imgur.com/a/qjNlGP3) |
 | `change-homepage` | Defaults to subscription tab instead of home when the app opens. | [Screenshots](https://imgur.com/a/Xxeq0XD) |
 | `custom-branding-icon-mmt` | Changes the app launcher icon to MMT. | [Screenshots](https://imgur.com/1h94NCw) |
@@ -119,7 +120,6 @@ all
 | `enable-seekbar-tapping` | Enables tap-to-seek on the seekbar of the video player. | [Screenshots](https://imgur.com/a/PtA0tb3) |
 | `enable-tablet-mini-player` | Enables the tablet mini-player layout. | [Screenshots](https://imgur.com/a/mLjsifI) |
 | `enable-tablet-navigation-bar` | Enables the tablet navigation bar layout. | [Screenshots](https://imgur.com/a/KUi3w7f) |
-| `enable-timestamps-speed` | Adds the current video speed in brackets next to the current time. | [Screenshots](https://imgur.com/a/QZoeBfT) |
 | `enable-wide-search-bar` | Replaces the search icon with a wide search bar. This will hide the YouTube logo when active. | [Screenshots](https://imgur.com/a/wG3Mx3S) |
 | `force-hide-player-button-background` | Remove the dark circle surrounding the pause/play button and the next and previous buttons/arrows. | [Screenshots](https://imgur.com/a/4nejeVc) |
 | `force-opus-codec` | Forces the opus codec for audios. | [Screenshots](https://imgur.com/a/coCGCKS) |
@@ -178,7 +178,6 @@ all
 | `layout-switch` | Adds the option to switch between tablet and phone layouts. | [Screenshots](https://imgur.com/a/16YQCJj) |
 | `materialyou` | Applies the MaterialYou theme for Android 12+. | [Screenshots](https://imgur.com/a/CzspOyn) |
 | `microg-support` | Allows the app to run without root using MicroG and under a different package name. | [Screenshots](https://imgur.com/a/HDh7OiC) |
-| `optimize-resource` | Removes duplicate resources to reduce file size. | [Screenshots](https://imgur.com/a/n4KuROD) |
 | `overlay-buttons` | Adds overlay buttons to the player (download, speed controls, amd copy link). | [Screenshots](https://imgur.com/a/U6JexYB) |
 | `return-youtube-dislike` | Shows the dislike count of videos using the Return YouTube Dislike API. | [Screenshots](https://imgur.com/a/mWj0eoj) |
 | `settings` | Applies mandatory patches to implement ReVanced settings into the application. | [Screenshots](https://imgur.com/a/qZJN1p0) |
@@ -206,6 +205,7 @@ all
 | `custom-branding-icon-revancify-red` | Changes the app launcher icon to Revancify Red. | [Screenshots](https://imgur.com/wwUsmiW) |
 | `custom-branding-music-name` | Rename the app to the name specified in the options.json file. | [Screenshots](https://imgur.com/a/ExSTD82) |
 | `custom-package-name` | Uses the package name specified in the options.json file for the non-root build. | [Screenshots](https://imgur.com/a/99sBIlq) |
+| `custom-playback-speed` | Adds more playback speed options. | [Screenshots](https://imgur.com/a/a5xeckD) |
 | `disable-auto-captions` | Disables forced auto captions. | [Screenshots](https://imgur.com/a/4PKAy9o) |
 | `enable-black-navigation-bar` | Sets the navigation bar color to black. | [Screenshots](https://imgur.com/a/UK1YGZP) |
 | `enable-color-match-player` | Matches the color of the mini player and the fullscreen player. | [Screenshots](https://imgur.com/a/F5mib6W) |
@@ -224,27 +224,28 @@ all
 | `enable-sleep-timer` | Adds a sleep timer option to flyout menu. | [Screenshots](https://imgur.com/a/cwEWZQi) |
 | `enable-zen-mode` | Adds a grey tint to the video player to reduce eye strain. | [Screenshots](https://imgur.com/a/KX7jYRi) |
 | `exclusive-audio-playback` | Enables the option to play music without video. | [Screenshots](https://imgur.com/a/WdZHw3M) |
-| `hide-button-container-labels` | Hide labels in button container. | [Screenshots](https://imgur.com/a/zzoDqcJ) |
+| `hide-account-menu` | Hide account menu elements. | [Screenshots](https://imgur.com/a/cGwYIYB) |
+| `hide-action-bar-label` | Hide labels in action bar. | [Screenshots](https://imgur.com/a/zzoDqcJ) |
 | `hide-button-shelf` | Hides the category shelf from homepage and explorer. | [Screenshots](https://imgur.com/a/h0408Yl) |
 | `hide-carousel-shelf` | Hides the carousel shelf from the homepage and explore tab. | [Screenshots](https://imgur.com/a/RkAIZkF) |
-| `hide-cast-button` | Hides the cast button in the video player and mini-player. | [Screenshots](https://imgur.com/a/NRNKGQG) |
+| `hide-cast-button` | Hides the cast button. | [Screenshots](https://imgur.com/a/NRNKGQG) |
 | `hide-category-bar` | Hides the music category bar at the top of the homepage. | [Screenshots](https://imgur.com/a/dCWHZmu) |
 | `hide-channel-guidelines` | Hides channel guidelines at the top of comments. | [Screenshots](https://imgur.com/a/EEs5Mw7) |
 | `hide-emoji-picker` | Hides emoji picker at the comments box. | [Screenshots](https://imgur.com/a/1K2OF8S) |
 | `hide-flyout-panel` | Hides flyout panel components. | [Screenshots](https://imgur.com/a/Sh2m1o4) |
 | `hide-get-premium` | Removes all "Get Premium" evidences from the avatar menu. | [Screenshots](https://imgur.com/a/xUfdCHx) |
+| `hide-handle` | Hides the handle in the account switcher. | [Screenshots](https://imgur.com/a/1pWTF1I) |
 | `hide-music-ads` | Hides ads before playing music. | [Screenshots](https://imgur.com/a/HCIlRvI) |
-| `hide-navigation-label` | Hide navigation button labels. | [Screenshots](https://imgur.com/a/G9YE9kY) |
+| `hide-navigation-bar-component` | Hides navigation bar components. | [Screenshots](https://imgur.com/a/yAbWEZn) |
 | `hide-new-playlist-button` | Hide the New Playlist button in the Library tab. | [Screenshots](https://imgur.com/a/RaANMid) |
 | `hide-playlist-card` | Hides the suggested playlist card from the homepage. | [Screenshots](https://imgur.com/a/W6pxiuQ) |
 | `hide-radio-button` | Hides start radio button. | [Screenshots](https://imgur.com/a/ysFkz6L) |
-| `hide-samples-button` | Adds options to hide sample buttons. | [Screenshots](https://imgur.com/a/W2RNVoq) |
 | `hide-taste-builder` | Hides the 'Tell us which artists you like" card from homepage. | [Screenshots](https://imgur.com/a/vLXUsph) |
+| `hide-terms-container` | Hides terms of service container at the account menu. | [Screenshots](https://imgur.com/a/t1AdWgr) |
 | `hide-tooltip-content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/QEnPT4w) |
-| `hide-upgrade-button` | Hides upgrade button from navigation bar and upgrade banner from the homepage. | [Screenshots](https://imgur.com/a/JMuhsrX) |
 | `hook-download-button` | Replaces the offline download button in the button container with an external download button. | [Screenshots](https://imgur.com/a/Y9s3bSQ) |
+| `import/export-settings` | Import or export settings as text. | | [Screenshots](https://imgur.com/a/kKJ28fP) |
 | `microg-support` | Allows the app to run without root using MicroG and under a different package name. | [Screenshots](https://imgur.com/a/HDh7OiC) |
-| `optimize-resource` | Remove unnecessary resources to reduce file size. | [Missing]() |
 | `remember-playback-speed` | Save the playback speed value whenever you change the playback speed. | [Screenshots](https://imgur.com/a/gB7ItMO) |
 | `remember-video-quality` | Remember the video quality whenever you change it. | [Screenshots](https://imgur.com/a/olwfVCf) |
 | `replace-dismiss-queue` | Replace dismiss queue menu to watch on YouTube. | [Screenshots](https://imgur.com/a/rF6bOcF) |
@@ -252,6 +253,7 @@ all
 | `settings` | Adds settings for ReVanced Extended to YouTube Music. | [Screenshots](https://imgur.com/a/prYgamZ) |
 | `sponsorblock` | Integrates SponsorBlock which allows skipping video segments such as sponsored content. | [Screenshots](https://imgur.com/a/2U9OYAI) |
 | `spoof-app-version` | Spoof the YouTube Music client version. Allows Canadian users to bypass the Radio-only restriction. | [Screenshots](https://imgur.com/a/oJ1Y60L) |
+| `start-page` | Set the default start page. | | [Screenshots](https://imgur.com/a/o6YC8KJ) |
 | `translations` | Add Crowdin translations for YouTube Music. | [Screenshots](https://imgur.com/a/tVIibVh) |
 </details>
 
