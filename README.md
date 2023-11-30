@@ -285,7 +285,7 @@ all
 | `hide-place-button` | Hide r/place button in toolbar. | [Screenshots](/assets/reddit/hide-place-button/README.md) |
 | `open-links-directly` | Skips over redirection URLs to external links. | [Screenshots](/assets/reddit/open-links-directly/README.md) |
 | `open-links-externally` | Open links outside of the app directly in your browser. | [Screenshots](/assets/reddit/open-links-externally/README.md) |
-| `premium-icon` | Unlocks premium icons. | [Screenshots](/assets/reddit/premium-icon-reddit/README.md) |
+| `premium-icon` | Unlocks premium icons. | [Screenshots](assets/reddit/premium-icon/README.md) |
 | `reddit-settings` | Adds ReVanced settings to Reddit. | [Screenshots](/assets/reddit/reddit-settings/README.md) |
 | `sanitize-sharing-links` | Removes (tracking) query parameters from the URLs when sharing links. | [Screenshots](/assets/reddit/sanitize-sharing-links/README.md) |
 </details>
