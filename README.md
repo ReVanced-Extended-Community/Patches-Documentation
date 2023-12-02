@@ -193,6 +193,7 @@ all
 | `Hide tooltip content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/OAZ30Z5) |
 | `Hide trending searches` | Hides trending searches in the search bar. | [Screenshots](https://imgur.com/a/1VjVi3A) |
 | `Hide video ads` | Removes ads in the video player. | [Screenshots](https://imgur.com/a/Shr7JuB) |
+| `Hide voice search button` | Hides voice search button in search bar. | [Screenshots](https://imgur.com/a/mPu54P0) |
 | `Layout switch` | Adds the option to switch between tablet and phone layouts. | [Screenshots](https://imgur.com/a/16YQCJj) |
 | `MaterialYou` | Applies the MaterialYou theme for Android 12+. | [Screenshots](https://imgur.com/a/CzspOyn) |
 | `MicroG support` | Allows the app to run without root using MicroG and under a different package name. | [Screenshots](https://imgur.com/a/HDh7OiC) |
@@ -266,7 +267,8 @@ all
 | `Hide radio button` | Hides start radio button. | [Screenshots](https://imgur.com/a/ysFkz6L) |
 | `Hide taste builder` | Hides the 'Tell us which artists you like" card from homepage. | [Screenshots](https://imgur.com/a/vLXUsph) |
 | `Hide terms container` | Hides terms of service container at the account menu. | [Screenshots](https://imgur.com/a/t1AdWgr) |
-| `Hide tooltip content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/QEnPT4w) |
+| `Hide tooltip content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/Q2k01ZW) |
+| `Hide voice search button` | Hides voice search button in search bar. | [Screenshots](https://imgur.com/a/mPu54P0) |
 | `Hook download button` | Replaces the offline download button in the button container with an external download button. | [Screenshots](https://imgur.com/a/Y9s3bSQ) |
 | `MicroG support` | Allows the app to run without root using MicroG and under a different package name. | [Screenshots](https://imgur.com/a/HDh7OiC) |
 | `Remember playback speed` | Save the playback speed value whenever you change the playback speed. | [Screenshots](https://imgur.com/a/gB7ItMO) |
