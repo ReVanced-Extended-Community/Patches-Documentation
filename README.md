@@ -102,7 +102,7 @@ all
 
 | Patch | Description | Related Screenshots |
 |:--------:|:--------------:|:-----------------:|
-| `Add splash animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch won't work with the `custom-branding-icon` patches. | [Screenshots](https://imgur.com/a/Ls6167p) |
+| `Add splash animation` | Adds splash animation, which was removed in YT v18.19.36+. This patch won't work with the `Custom branding icon` patches. | [Screenshots](https://imgur.com/a/Ls6167p) |
 | `Alternative thumbnails` | Adds an option to replace video thumbnails with still image captures of the video. | [Screenshots](https://imgur.com/a/facqljP) |
 | `Ambient mode switch` | Bypass the restrictions of ambient mode or disable it completely. | [Screenshots](https://imgur.com/a/qjNlGP3) |
 | `Append time stamps information` | Add the current video quality or playback speed in brackets next to the current time. | [Screenshots](https://imgur.com/a/QZoeBfT) |
