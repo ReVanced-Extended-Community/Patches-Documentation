@@ -113,9 +113,7 @@ all
 | `Ambient mode switch` | Bypass the restrictions of ambient mode or disable it completely. | [Screenshots](https://imgur.com/a/qjNlGP3) |
 | `Append time stamps information` | Add the current video quality or playback speed in brackets next to the current time. | [Screenshots](https://imgur.com/a/QZoeBfT) |
 | `Change homepage` | Defaults to subscription tab instead of home when the app opens. | [Screenshots](https://imgur.com/a/Xxeq0XD) |
-| `Custom branding icon MMT` | Changes the app launcher icon to MMT. | [Screenshots](https://imgur.com/1h94NCw) |
-| `Custom branding icon Revancify Blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](https://imgur.com/a/Ov9fPHX) |
-| `Custom branding icon Revancify Red` | Changes the app launcher icon to Revancify Red. | [Screenshots](https://imgur.com/a/ZNxfmER) |
+| `Custom branding icon YouTube` | Change the YouTube launcher icon to the icon specified in options.json. | [Screenshots](https://imgur.com/1h94NCw) |
 | `Custom branding name YouTube` | Rename the app to the name specified in the options.json file. (Default: ReVanced Extended) | [Screenshots](https://imgur.com/a/uYAWf65) |
 | `Custom double tap length` | Add custom 'double-tap to seek' values that are specified in the options.json file. | [Screenshots](https://imgur.com/a/S1fyX9A) |
 | `Custom package name` | Uses the package name specified in the options.json file for the non-root build. | [Screenshots](https://imgur.com/a/DY0EMNI) |
@@ -230,9 +228,7 @@ all
 | `Background play` | Enables background playback. | [Screenshots](https://imgur.com/a/gZki03j) |
 | `Bitrate default value` | Set the audio quality to 'Always High' when you first install the app. | [Screenshots](https://imgur.com/a/sL2k1m4) |
 | `Certificate spoof` | Spoofs the YouTube Music certificate for Android Auto. | [Screenshots](https://imgur.com/a/wYqUq6J) |
-| `Custom branding icon MMT` | Changes the app launcher icon to MMT. | [Screenshots](https://imgur.com/K96jJ52) |
-| `Custom branding icon Revancify Blue` | Changes the app launcher icon to Revancify Blue. | [Screenshots](https://imgur.com/1ijcyHr) |
-| `Custom branding icon Revancify Red` | Changes the app launcher icon to Revancify Red. | [Screenshots](https://imgur.com/wwUsmiW) |
+| `Custom branding icon YouTube Music` | Change the YouTube Music launcher icon to the icon specified in options.json. | [Screenshots](https://imgur.com/K96jJ52) |
 | `Custom branding name YouTube Music` | Rename the app to the name specified in the options.json file. | [Screenshots](https://imgur.com/a/ExSTD82) |
 | `Custom package name` | Uses the package name specified in the options.json file for the non-root build. | [Screenshots](https://imgur.com/a/99sBIlq) |
 | `Custom playback speed` | Adds more playback speed options. | [Screenshots](https://imgur.com/a/a5xeckD) |
@@ -263,18 +259,18 @@ all
 | `Hide channel guidelines` | Hides channel guidelines at the top of comments. | [Screenshots](https://imgur.com/a/EEs5Mw7) |
 | `Hide emoji picker` | Hides emoji picker at the comments box. | [Screenshots](https://imgur.com/a/1K2OF8S) |
 | `Hide flyout panel` | Hides flyout panel components. | [Screenshots](https://imgur.com/a/Sh2m1o4) |
+| `Hide general ads` | Hides general ads. | [Screenshots](https://imgur.com/a/HCIlRvI) |
 | `Hide get premium` | Removes all "Get Premium" evidences from the avatar menu. | [Screenshots](https://imgur.com/a/xUfdCHx) |
 | `Hide handle` | Hides the handle in the account switcher. | [Screenshots](https://imgur.com/a/1pWTF1I) |
 | `Hide history button` | Hides history button in toolbar. | [Screenshots](https://imgur.com/a/Vjg7zO9) |
-| `Hide music ads` | Hides ads before playing music. | [Screenshots](https://imgur.com/a/HCIlRvI) |
 | `Hide navigation bar component` | Hides navigation bar components. | [Screenshots](https://imgur.com/a/yAbWEZn) |
 | `Hide new playlist button` | Hide the New Playlist button in the Library tab. | [Screenshots](https://imgur.com/a/RaANMid) |
 | `Hide playlist card` | Hides the suggested playlist card from the homepage. | [Screenshots](https://imgur.com/a/W6pxiuQ) |
 | `Hide radio button` | Hides start radio button. | [Screenshots](https://imgur.com/a/ysFkz6L) |
 | `Hide taste builder` | Hides the 'Tell us which artists you like" card from homepage. | [Screenshots](https://imgur.com/a/vLXUsph) |
 | `Hide terms container` | Hides terms of service container at the account menu. | [Screenshots](https://imgur.com/a/t1AdWgr) |
-| `Hide tooltip content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/Q2k01ZW) |
-| `Hide voice search button` | Hides voice search button in search bar. | [Screenshots](https://imgur.com/a/mPu54P0) |
+| `Hide tooltip content` | Hides the tooltip box that appears on first install. | [Screenshots](https://imgur.com/a/QEnPT4w) |
+| `Hide voice search button` | Hides voice search button in search bar. | [Screenshots](https://imgur.com/a/Q2k01ZW) |
 | `Hook download button` | Replaces the offline download button in the button container with an external download button. | [Screenshots](https://imgur.com/a/Y9s3bSQ) |
 | `MicroG support` | Allows the app to run without root using MicroG and under a different package name. | [Screenshots](https://imgur.com/a/HDh7OiC) |
 | `Remember playback speed` | Save the playback speed value whenever you change the playback speed. | [Screenshots](https://imgur.com/a/gB7ItMO) |
@@ -302,7 +298,7 @@ all
 | `Disable screenshot popup` | Disables the popup that shows up when taking a screenshot. | [Screenshots](/assets/reddit/disable-screenshot-popup/README.md) |
 | `Hide ads` | Removes ads from Reddit. | [Screenshots](/assets/reddit/hide-ads/README.md) |
 | `Hide navigation buttons` | Hide buttons at navigation bar. | [Screenshots](/assets/reddit/hide-navigation-buttons/README.md) |
-| `Hide place button` | Hide r/place button in toolbar. | [Screenshots](/assets/reddit/hide-place-button/README.md) |
+| `Hide toolbar button` | Hides 'r/place' button or 'reddit recap' button in the toolbar. | [Screenshots](/assets/reddit/hide-place-button/README.md) |
 | `Hide recently visited shelf` | Hides recently visited shelf in sidebar. | [Screenshots](/assets/reddit/hide-recently-visited-shelf/README.md) |
 | `Open links directly` | Skips over redirection URLs to external links. | [Screenshots](/assets/reddit/open-links-directly/README.md) |
 | `Open links externally` | Open links outside of the app directly in your browser. | [Screenshots](/assets/reddit/open-links-externally/README.md) |
