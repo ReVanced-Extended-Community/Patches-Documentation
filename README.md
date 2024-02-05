@@ -178,7 +178,7 @@
 | `Background play` | Enables playing music in the background. | [Screenshots](https://imgur.com/a/gZki03j) |
 | `Bitrate default value` | Sets the audio quality to "Always High" when you first install the app. | [Screenshots](https://imgur.com/a/sL2k1m4) |
 | `Certificate spoof` | Enables YouTube Music to work with Android Auto by spoofing the YouTube Music certificate. | [Screenshots](https://imgur.com/a/wYqUq6J) |
-| `Change start page` | Adds an option to set which page the app opens in instead of the homepage. | | [Screenshots](https://imgur.com/a/o6YC8KJ) |
+| `Change start page` | Adds an option to set which page the app opens in instead of the homepage. | [Screenshots](https://imgur.com/a/o6YC8KJ) |
 | `Custom branding icon YouTube Music` | Changes the YouTube Music app icon to the icon specified in options.json. | [Screenshots](https://imgur.com/a/IvTQ5t4) |
 | `Custom branding name YouTube Music` | Renames the YouTube Music app to the name specified in options.json. | [Screenshots](https://imgur.com/a/ExSTD82) |
 | `Custom package name` | Changes the package name for the non-root build of YouTube and YouTube Music to the name specified in options.json. | [Screenshots](https://imgur.com/a/99sBIlq) |
