@@ -1,11 +1,14 @@
 # Patches Documentation
 
+> [!WARNING]
+> This repository has not been updated recently, so much of the information here is outdated.
+
 <details><summary>
 
 ## Recommended Versions
 </summary>
 
-***Recommended versions to patch for best compatibilty with patches.***
+***Recommended versions to patch for best compatibility with patches.***
 
 <details open><summary>
 
